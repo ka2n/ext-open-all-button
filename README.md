@@ -1,5 +1,6 @@
-# Browser extension template
+# Open All
 
+Add "Open All" button.
 
 ## Install
 

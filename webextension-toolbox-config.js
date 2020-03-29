@@ -5,11 +5,10 @@ const GlobEntriesPlugin = require("webpack-watched-glob-entries-plugin");
 module.exports = {
   webpack: (
     /** @type {import('webpack').Configuration} */ config,
-    { dev, vendor }
+    { dev }
   ) => {
     config.entry = {
-      background: path.resolve("app", "scripts/background.ts"),
-      options: path.resolve("app", "scripts/options.ts")
+      content: path.resolve("app", "scripts/content.ts"),
     };
 
     config.plugins = config.plugins.filter(

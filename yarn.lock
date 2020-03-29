@@ -770,6 +770,11 @@
     "@types/filesystem" "*"
     "@types/har-format" "*"
 
+"@types/domready@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@types/domready/-/domready-1.0.0.tgz#26b8de42e279b0e4e68d56ad06fde3fd2a2c9af2"
+  integrity sha512-z6KzANiu6UaHOi1NaZHcYZfKTeHC0C9Lhb0brTrej1AMHSqIjyRgR+vlc93pJOxmY2JXtPbyIZAuYiRFs9iKBg==
+
 "@types/filesystem@*":
   version "0.0.29"
   resolved "https://registry.yarnpkg.com/@types/filesystem/-/filesystem-0.0.29.tgz#ee3748eb5be140dcf980c3bd35f11aec5f7a3748"
@@ -1745,6 +1750,11 @@ domain-browser@^1.1.1:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/domain-browser/-/domain-browser-1.2.0.tgz#3d31f50191a6749dd1375a7f522e823d42e54eda"
   integrity sha512-jnjyiM6eRyZl2H+W8Q/zLMA481hzi0eszAaBUzIVnmYVDBbnLxVNnfu1HgEBvCbL+71FrxMl3E6lpKH7Ge3OXA==
+
+domready@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/domready/-/domready-1.0.8.tgz#91f252e597b65af77e745ae24dd0185d5e26d58c"
+  integrity sha1-kfJS5Ze2Wvd+dFriTdAYXV4m1Yw=
 
 duplexify@^3.4.2, duplexify@^3.6.0:
   version "3.7.1"

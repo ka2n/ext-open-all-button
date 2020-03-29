@@ -10,11 +10,15 @@
   "devDependencies": {
     "@babel/preset-typescript": "^7.9.0",
     "@types/chrome": "^0.0.103",
+    "@types/domready": "^1.0.0",
     "@types/node": "^13.9.5",
     "@types/webpack": "^4.41.8",
     "@types/webpack-env": "^1.15.1",
     "typescript": "^3.8.3",
     "webextension-polyfill-ts": "^0.14.0",
     "webextension-toolbox": "latest"
+  },
+  "dependencies": {
+    "domready": "^1.0.8"
   }
 }

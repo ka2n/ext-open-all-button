@@ -9,13 +9,11 @@
     "16": "images/icon-16.png",
     "128": "images/icon-128.png"
   },
-  "background": {
-    "scripts": ["background.js"]
-  },
-  "options_page": "pages/options.html",
-  "options_ui": {
-    "page": "pages/options.html",
-    "chrome_style": true
-  },
-  "permissions": ["tabs", "<all_urls>"]
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/notifications/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["https://github.com/notifications/*"]
 }
