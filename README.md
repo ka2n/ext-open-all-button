@@ -2,6 +2,8 @@
 
 Add "Open All" button.
 
+Chrome: https://chrome.google.com/webstore/detail/gh-open-all-notifications/jodjjaenlbilgckhfmjmlokhinmcogac
+
 ## Install
 
     $ npm install
