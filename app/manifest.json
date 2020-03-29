@@ -15,7 +15,7 @@
         "https://github.com/notifications",
         "https://github.com/notifications/*"
       ],
-      "js": ["content.js"]
+      "js": ["scripts/content.js"]
     }
   ],
   "permissions": ["https://github.com/notifications/*"]
