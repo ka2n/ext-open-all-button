@@ -3,7 +3,7 @@
 Add "Open All" button.
 
 Chrome: https://chrome.google.com/webstore/detail/gh-open-all-notifications/jodjjaenlbilgckhfmjmlokhinmcogac
-Firefox: TODO
+Firefox: https://addons.mozilla.org/ja/firefox/addon/gh-open-all-notifications/
 
 ## Install
 
