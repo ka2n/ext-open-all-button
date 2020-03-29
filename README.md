@@ -3,24 +3,22 @@
 Add "Open All" button.
 
 Chrome: https://chrome.google.com/webstore/detail/gh-open-all-notifications/jodjjaenlbilgckhfmjmlokhinmcogac
+Firefox: TODO
 
 ## Install
 
-    $ npm install
+    # Use node 10.x, yarn
+    $ yarn install
 
 ## Development
 
-    npm run dev chrome
-    npm run dev firefox
-    npm run dev opera
-    npm run dev edge
+    yarn run dev chrome
+    yarn run dev firefox
 
 ## Build
 
-    npm run build chrome
-    npm run build firefox
-    npm run build opera
-    npm run build edge
+    yarn run build chrome
+    yarn run build firefox
 
 ## Environment
 
