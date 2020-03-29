@@ -4,7 +4,7 @@ Add "Open All" button.
 
 ## Install
 
-	$ npm install
+    $ npm install
 
 ## Development
 
@@ -22,8 +22,8 @@ Add "Open All" button.
 
 ## Environment
 
-The build tool also defines a variable named `process.env.NODE_ENV` in your scripts. 
+The build tool also defines a variable named `process.env.NODE_ENV` in your scripts.
 
 ## Libraries
 
-* [webextension-toolbox](https://github.com/HaNdTriX/webextension-toolbox)
+- [webextension-toolbox](https://github.com/HaNdTriX/webextension-toolbox)
