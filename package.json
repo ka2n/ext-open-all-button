@@ -11,7 +11,7 @@
     "@babel/preset-typescript": "7.9.0",
     "@types/chrome": "0.0.104",
     "@types/domready": "1.0.0",
-    "@types/node": "13.13.3",
+    "@types/node": "13.13.5",
     "@types/webpack": "4.41.12",
     "@types/webpack-env": "1.15.2",
     "typescript": "3.8.3",
