@@ -8,7 +8,7 @@
     "build": "webextension-toolbox build"
   },
   "devDependencies": {
-    "@babel/preset-typescript": "7.9.0",
+    "@babel/preset-typescript": "7.10.1",
     "@types/chrome": "0.0.104",
     "@types/domready": "1.0.0",
     "@types/node": "13.13.3",
