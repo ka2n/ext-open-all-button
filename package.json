@@ -14,7 +14,7 @@
     "@types/node": "13.13.3",
     "@types/webpack": "4.41.12",
     "@types/webpack-env": "1.15.2",
-    "typescript": "3.8.3",
+    "typescript": "4.1.4",
     "webextension-polyfill-ts": "0.14.0",
     "webextension-toolbox": "latest"
   },
