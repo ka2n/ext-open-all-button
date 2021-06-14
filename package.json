@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@babel/preset-typescript": "7.9.0",
-    "@types/chrome": "0.0.129",
+    "@types/chrome": "0.0.145",
     "@types/domready": "1.0.0",
     "@types/node": "13.13.3",
     "@types/webpack": "4.41.12",
