@@ -13,7 +13,7 @@
     "@types/domready": "1.0.0",
     "@types/node": "13.13.3",
     "@types/webpack": "4.41.12",
-    "@types/webpack-env": "1.16.2",
+    "@types/webpack-env": "1.18.0",
     "typescript": "4.1.5",
     "webextension-polyfill-ts": "0.14.0",
     "webextension-toolbox": "latest"
